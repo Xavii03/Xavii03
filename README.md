@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xavii03
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python and packages such as NumPy and Pandas
+- 🌱 I’m currently learning python, SQL, No SQL languages such as Mongo DB or redis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me javiergf200312345@gmail.com
 
